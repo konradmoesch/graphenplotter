@@ -1,8 +1,3 @@
-#
-# Variablen helfen in Makefiles copy&paste zu verringern und die "Rezepte"
-# uebersichtlicher zu gestalten.
-#
-
 CC = gcc
 CFLAGS = -std=c99 -pedantic -Wall -Wextra
 
